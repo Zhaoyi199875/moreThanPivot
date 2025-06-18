@@ -1,4 +1,4 @@
-# Maximal Clique Enumeration with moreThanPivot
+# More Than Pivot for Maximal Clique Enumeration
 
 This project provides implementations of four maximal clique enumeration algorithms, each integrated with our proposed moreThanPivot pruning algorithm:
 
