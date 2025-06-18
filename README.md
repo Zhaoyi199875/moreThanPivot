@@ -29,3 +29,14 @@ To run an algorithm on a dataset, use the following command format:
 ./rmcemtp ./dataset
 ./rcdmtp ./dataset
 ./hbbmcmtp ./dataset
+```
+
+## Dataset Format
+
+The input graph file is a plain text file with the following format:
+```bash
+number of vertices
+number of directed_edges
+v1,v2
+v2,v1
+...
