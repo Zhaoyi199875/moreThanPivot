@@ -445,7 +445,7 @@ long RMCEdegenMTP::computeDegeneracyWithGlobalReduction(int* offset){
 void RMCEdegenMTP::setCandidates(int** candidates, int* numCandidates,
                                    int posX, int posP, int posR, int pivot, int boundSize, int* vertexDegree,
                                    long* cliqueCount, int currentDepth){
-    // mlp
+    // mtp
     if(currentDepth == 1)
     {
         *candidates = (int*)malloc((posR - posP) * sizeof(int));
