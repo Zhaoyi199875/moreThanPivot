@@ -25,10 +25,10 @@ make
 To run an algorithm on a dataset, use the following command format:
 
 ```bash
-./degenmtp ./dataset
-./rmcemtp ./dataset
-./rcdmtp ./dataset
-./hbbmcmtp ./dataset
+./degenmtp ./data/data_name
+./rmcemtp ./data/data_name
+./rcdmtp ./data/data_name
+./hbbmcmtp ./data/data_name
 ```
 
 ## Dataset Format
