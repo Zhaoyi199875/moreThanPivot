@@ -1,6 +1,6 @@
 # More Than Pivot for Maximal Clique Enumeration
 
-This project provides implementations of four maximal clique enumeration algorithms, each integrated with our proposed moreThanPivot pruning algorithm:
+This project provides implementations of four maximal clique enumeration algorithms, each integrated with our proposed moreThanPivot algorithm:
 
 - BK_degenMTP – moreThanPivot-enhanced variant of BK_degen.
 - RMCE_degenMTP – moreThanPivot-enhanced variant of RMCE_degen.
